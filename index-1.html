@@ -1,0 +1,41 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Okänd </title></head><body>
+<h1 id="azureup">AzureUp</h1>
+<p>Azure Demos, learning by doing</p>
+<p>Base for 3 workshop sessions at Cybercom Cloud Academy
+Move a local application to different Cloud options - discuss and reflect on pros and cons of each option.</p>
+<p>Focus is on learning and exploring different Azure Technoglogies - not allways in a best practice way - we code the happy path, don't have robust error handling and logging etc.</p>
+<h2 id="workshop-1">Workshop 1</h2>
+<ol>
+<li>Start with On prem version</li>
+<li>Upgrade to reading from Blob Storage using SAS and Shared Access Policy instead of local disk</li>
+<li>Creating a VM in Azure, run app from VM</li>
+<li>Dockerize it, create Azure Container Registry (ACR), push to ACR, run manually on VM</li>
+</ol>
+<p>After this workshop you will have had an intro to
+<em> Azure Storage
+</em> Azure CLI 
+<em> Azure Portal
+</em> Docker Containers
+<em> Azure Container Registry
+</em> Azure Storage Explorer</p>
+<h2 id="workshop-2">Workshop 2</h2>
+<ol>
+<li>Create Azure Container Instance (on-demand docker host), run Dockerized version from ACI manually</li>
+<li>Create a Logic App that runs Dockerized version from ACI by starting it from a Logic App that is triggered by events from blob storage</li>
+<li>Add code to Logic App to add information to email when ACI starts</li>
+<li>Add Code in program to send data to a message queue, update Docker image on ACR</li>
+</ol>
+<p>After this workshop you will have had an intro to
+<em> Azure Container Instance
+</em> Eventing on Azure
+<em> Logic Apps
+</em> Connectors in logic app
+<em> Monitoring Logic App runs in Azure Portal
+</em> Azure Storage Explorer</p>
+<h2 id="workshop-3">Workshop 3</h2>
+<ol>
+<li>Write an Azure Function that are triggered from the queue and stores the data in Table Storage</li>
+<li>Event Hubs / Topics / Aggregating / Singletons</li>
+<li>Display in Blazor - run from blob storage</li>
+</ol>
+</body></html>

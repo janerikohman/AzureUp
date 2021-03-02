@@ -6,20 +6,20 @@ az account set --subscription <your subscription id> # If you have >1 - choose t
 
 az group create --location "westeurope" --name "ccdemogrp1" --tags Customer=Jan-Erik Type=Demo
 
-az storage account create -n "ccdemostorage1" -g "ccdemogrp1" --kind StorageV2 -l "westeurope" --sku Standard_LRS
+az storage account create -n "ccdemostrg1" -g "ccdemogrp1" --kind StorageV2 -l "westeurope" --sku Standard_LRS
 
 # List the two account keys for the storage account
-az storage account keys list -g ccdemogrp1 -n ccdemostorage1
+az storage account keys list -g ccdemogrp1 -n ccdemostrg1
 
 # Below works on bash only
-# STORAGEKEY=$(az storage account keys list --resource-group "ccdemogrp1" --account-name "ccdemostorage1" --query "[0].value" | tr -d '"')
+# STORAGEKEY=$(az storage account keys list --resource-group "ccdemogrp1" --account-name "ccdemostrg1" --query "[0].value" | tr -d '"')
 
 #Powershell
 $STORAGEKEY = <copy one ot the keys from the az storage account keys list command above>
 
 
-az storage container create --name "private1" --resource-group "ccdemogrp1" --account-name "ccdemostorage1" --account-key $STORAGEKEY
-az storage container create --name "private2" --resource-group "ccdemogrp1" --account-name "ccdemostorage1" --account-key $STORAGEKEY
+az storage container create --name "private1" --resource-group "ccdemogrp1" --account-name "ccdemostrg1" --account-key $STORAGEKEY
+az storage container create --name "private2" --resource-group "ccdemogrp1" --account-name "ccdemostrg1" --account-key $STORAGEKEY
 
 # Show the ARM-template section
 # Demo a deployment (expct error)

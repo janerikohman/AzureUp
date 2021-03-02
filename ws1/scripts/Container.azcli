@@ -1,0 +1,36 @@
+## Run in Powershell
+
+
+az acr create --resource-group "ccdemogrp1" --name "ccdemo1acr" --sku Basic --admin-enabled true
+
+az acr login --name "ccdemo1acr"
+
+az acr show --name "ccdemo1acr" --query loginServer --output table
+
+docker images
+
+docker build -t activityreader -f Dockerfile .
+
+docker tag activityreader:latest ccdemo1acr.azurecr.io/activityreader:1.0
+
+docker push ccdemo1acr.azurecr.io/activityreader:1.0
+
+
+
+# På VM:
+docker login ccdemo1acr.azurecr.io
+Username: ccdemo1acr
+Password: <ta från azure portal> / nJlgrZQW2oNU082q3=KMAuX0sONbTuJa
+docker pull ccdemo1acr.azurecr.io/activityreader:1.0
+
+
+# container instance - Powershell - This is for WS2!
+
+az acr show --name ccdemo1acr --query loginServer
+$acrUser = az acr credential show -n ccdemo1acr --query username
+$password = az acr credential show -n ccdemo1acr --query "passwords[0].value"  -o tsv
+
+az container create --resource-group ccdemogrp1 --name "ccdemo1aci" --restart-policy never  --image ccdemo1acr.azurecr.io/activityreader:1.0 --cpu 1 --memory 1 --registry-login-server ccdemo1acr.azurecr.io --registry-username $acrUser --registry-password $password --dns-name-label "ccdemo1acr" --ports 80 --os-type Linux 
+az container show --resource-group ccdemogrp1 --name "ccdemo1aci" --query instanceView.state
+
+az container logs --resource-group ccdemogrp1 --name "ccdemo1aci"

@@ -20,6 +20,12 @@ After this workshop you will have had an intro to
 * Azure Container Registry
 * Azure Storage Explorer
 
+Before:
+![image](https://user-images.githubusercontent.com/2428582/109678075-90c52d80-7b7a-11eb-9d71-86cdaab0232a.png)
+After:
+![image](https://user-images.githubusercontent.com/2428582/109678139-a175a380-7b7a-11eb-8d2e-f311e16f2220.png)
+
+
 ## Workshop 2
 5. Create Azure Container Instance (on-demand docker host), run Dockerized version from ACI manually
 6. Create a Logic App that runs Dockerized version from ACI by starting it from a Logic App that is triggered by events from blob storage

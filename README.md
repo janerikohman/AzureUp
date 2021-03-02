@@ -22,6 +22,7 @@ After this workshop you will have had an intro to
 
 Before:
 ![image](https://user-images.githubusercontent.com/2428582/109678075-90c52d80-7b7a-11eb-9d71-86cdaab0232a.png)
+
 After:
 ![image](https://user-images.githubusercontent.com/2428582/109678139-a175a380-7b7a-11eb-8d2e-f311e16f2220.png)
 
@@ -42,6 +43,6 @@ After this workshop you will have had an intro to
 
 ## Workshop 3
 9. Write an Azure Function that are triggered from the queue and stores the data in Table Storage
-10. Event Hubs / Topics / Aggregating / Singletons
+10. Event Hubs / Topics 
 11. Display in Blazor - run from blob storage
 

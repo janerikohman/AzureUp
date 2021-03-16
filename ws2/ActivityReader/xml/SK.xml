@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.03" generated-datetime="2021-03-02T08:44:22">
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600004301-SVK-16020</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>SVK Employment sem. - SVK Employment sem</narrative>
+      <narrative xml:lang="sv">SVK Arb.löshets sem.</narrative>
+    </title>
+    <description type="1">
+      <narrative>A visit to Sweden during one week in September 1998 by a Slovakian delegation from the Ministry of Labour, Social Affairs and Family/ National Labour Office in Bratislava with the purpose of studying system and methods of support and service to disabled job-seakers.</narrative>
+      <narrative xml:lang="sv">Ett studiebesök till Sverige under en vecka i september 1998 av en slovakisk delegation från arbetsministeriet och "Social Affairs and Family/National Labour Office" i Bratislava med syftet att studera system och metoder för stöd till handikappade arbetssökande.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="1999-07-28" />
+    <activity-date type="2" iso-date="1997-10-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="16020" vocabulary="1" percentage="100">
+      <narrative>Employment creation</narrative>
+    </sector>
+    <sector code="160" vocabulary="2" percentage="100">
+      <narrative>Other Social Infrastructure &amp; Services</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="1">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">26613.9849756515</value>
+    </budget>
+    <budget>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">7078.5374532515</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">7078.5374532515</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">26613.9849756515</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="1997-01-01" />
+      <value value-date="1997-01-01">35363.869750871</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1998-12-28" />
+      <value value-date="1998-12-28">26613.9849756515</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1999-12-28" />
+      <value value-date="1999-12-28">7078.5374532515</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600052201-SVK-31110</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>SVK Ecolog agriculture II</narrative>
+      <narrative xml:lang="sv">SVK Ekolog lantbruk II</narrative>
+    </title>
+    <description type="1">
+      <narrative>The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.</narrative>
+      <narrative xml:lang="sv">Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2004-03-28" />
+    <activity-date type="2" iso-date="1998-01-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="31110" vocabulary="1" percentage="100">
+      <narrative>Agricultural policy and administrative management</narrative>
+    </sector>
+    <sector code="311" vocabulary="2" percentage="100">
+      <narrative>Agriculture</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="2">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="0">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">9219.5895358055</value>
+    </budget>
+    <budget>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">35300.2190673299</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2000-01-01" />
+      <period-end iso-date="2000-12-28" />
+      <value value-date="2000-01-01">6409.9513132328</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">10401.5019030964</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">39758.5080315818</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">9219.5895358055</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">10401.5019030964</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">35300.2190673299</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="2000-01-01" />
+      <period-end iso-date="2000-12-28" />
+      <value value-date="2000-01-01">6409.9513132328</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">39758.5080315818</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="1998-01-01" />
+      <value value-date="1998-01-01">102783.1536032012</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1998-12-28" />
+      <value value-date="1998-12-28">9219.5895358055</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1999-12-28" />
+      <value value-date="1999-12-28">35300.2190673299</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2000-12-28" />
+      <value value-date="2000-12-28">6409.9513132328</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2002-12-28" />
+      <value value-date="2002-12-28">10401.5019030964</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2004-12-28" />
+      <value value-date="2004-12-28">39758.5080315818</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600134601-SVK-31210</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Forestry management - Forestry managemnet</narrative>
+      <narrative xml:lang="sv">Marknadsek. skogsförvalt.</narrative>
+    </title>
+    <description type="1">
+      <narrative>The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.</narrative>
+      <narrative xml:lang="sv">Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2000-07-28" />
+    <activity-date type="2" iso-date="1995-07-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="31210" vocabulary="1" percentage="100">
+      <narrative>Forestry policy and administrative management</narrative>
+    </sector>
+    <sector code="312" vocabulary="2" percentage="100">
+      <narrative>Forestry</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="1">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="1">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2000-01-01" />
+      <period-end iso-date="2000-12-28" />
+      <value value-date="2000-01-01">34604.7202148331</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2000-01-01" />
+      <period-end iso-date="2000-12-28" />
+      <value value-date="2000-01-01">24725.4546645416</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="1995-01-01" />
+      <value value-date="1995-01-01">44437.591118089</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2000-12-28" />
+      <value value-date="2000-12-28">24725.4546645416</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600161501-SVK-16020</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinning coven. SLV-AMS</narrative>
+      <narrative xml:lang="sv">Twinning förb. SLV-AMS</narrative>
+    </title>
+    <description type="1">
+      <narrative>Support for the preparation of a twinning covenant for the Phare twinning project SK/IB/CO-01, Introduction of Standard Calssification of Occupation/Preparations of Participation in Eures 2. AMS is responsible as lead agency for the project-</narrative>
+      <narrative xml:lang="sv">Stöd till förberedelsearbete i samband med upprättande av projektplan för Phare twinning projekt SK/IB/CO-01, Introduction of Standard Classification of Occoupation/Preparations of Participation in EURES 2AMS genomför detta projekt som "lead agency".</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>AMS Arbetsförmedlingen        </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2002-12-28" />
+    <activity-date type="2" iso-date="2000-08-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="16020" vocabulary="1" percentage="100">
+      <narrative>Employment creation</narrative>
+    </sector>
+    <sector code="160" vocabulary="2" percentage="100">
+      <narrative>Other Social Infrastructure &amp; Services</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="0">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2001-01-01" />
+      <period-end iso-date="2001-12-28" />
+      <value value-date="2001-01-01">4899.7910701849</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">25650.0360045263</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">25650.0360045263</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2000-01-01" />
+      <value value-date="2000-01-01">32748.9465755518</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2002-12-28" />
+      <value value-date="2002-12-28">25650.0360045263</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600170401-SVK-41010</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinning Slovak Rep-NVV</narrative>
+      <narrative xml:lang="sv">Twinning Slovakien-NVV</narrative>
+    </title>
+    <description type="1">
+      <narrative>Support towards the development and preparation of a twinning covenant for EU-Phare twinning project in the Slovak Republic, SK00/IB/EN-01, Implementation of the Environmental Impact Assessment (EIA) Directive.</narrative>
+      <narrative xml:lang="sv">Finansiering av förberedearbete att utarbeta en projektplan för ett EU-Phare twinning-projekt i Slovakien, SK00/IB/EN-01, Implementation of the Environmental Impact Assessment (EIA) Directive.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Naturvårdsverket              </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2002-06-28" />
+    <activity-date type="2" iso-date="2000-08-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="41010" vocabulary="1" percentage="100">
+      <narrative>Environmental policy and administrative management</narrative>
+    </sector>
+    <sector code="410" vocabulary="2" percentage="100">
+      <narrative>General Environment Protection</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="2">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="0">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">15430.5112642732</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">12844.357576381</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2000-01-01" />
+      <value value-date="2000-01-01">16374.4732877759</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2002-12-28" />
+      <value value-date="2002-12-28">12844.357576381</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600171601-SVK-15162</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinning SVK-IntegrOffice</narrative>
+      <narrative xml:lang="sv">Twinning SVK-Integrv</narrative>
+    </title>
+    <description type="1">
+      <narrative>Support towards the development and preparation of a twinning covenant for EU-Phare twinning project in the Slovak Republic, SR00/IB/OT-01, Improvement of the Situation of the Roma in the Slovak Republic.</narrative>
+      <narrative xml:lang="sv">Finansiering av förberedelsearbete att utarbeta projektplan för ett EU-Phare twinning projekt i Slovakien, SR00/IB/OT-01, Improvement of the Situation of the Roma in the Slovak Republic.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2002-03-28" />
+    <activity-date type="2" iso-date="2000-08-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15160" vocabulary="1" percentage="100">
+      <narrative>Human rights</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="2">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2001-01-01" />
+      <period-end iso-date="2001-12-28" />
+      <value value-date="2001-01-01">25148.9592199954</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2001-01-01" />
+      <period-end iso-date="2001-12-28" />
+      <value value-date="2001-01-01">20951.4044726457</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2000-01-01" />
+      <value value-date="2000-01-01">28382.4203654782</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2001-12-28" />
+      <value value-date="2001-12-28">20951.4044726457</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600206101-SVK-15120</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinprop ESV-Slovak Rep</narrative>
+      <narrative xml:lang="sv">Twinförslag ESV-Slovakien</narrative>
+    </title>
+    <description type="1">
+      <narrative>Support towards the preparation of a proposal for partnership for an EU/Phare twinning project SR01/IB/FI-02 "Public Internal Financial Control" and for the presentation of the proposal.</narrative>
+      <narrative xml:lang="sv">Finansiering av kostnader i samband med framtagande av förslag avseende ett EU/Phare twinning-projekt, SR01/IB/FI-02 "Public Internal Financial Control" samt för presentation av förslaget.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Ekonomistyrningsverket        </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2002-12-28" />
+    <activity-date type="2" iso-date="2001-10-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15111" vocabulary="1" percentage="100">
+      <narrative>Public finance management (PFM)</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="2">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">28065.939718136</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">8306.2442135583</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2001-01-01" />
+      <value value-date="2001-01-01">26389.8669039697</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2002-12-28" />
+      <value value-date="2002-12-28">8306.2442135583</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600206102-SVK-15120</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinprop ESV-Slovak Rep</narrative>
+      <narrative xml:lang="sv">Twinförslag ESV-Slovakien</narrative>
+    </title>
+    <description type="1">
+      <narrative>Support towards the preparation of a proposal for partnership for an EU/Phare twinning project SR01/IB/FI-02 "Public Internal Financial Control" and for the presentation of the proposal.</narrative>
+      <narrative xml:lang="sv">Finansiering av kostnader i samband med framtagande av förslag avseende ett EU/Phare twinning-projekt, SR01/IB/FI-02 "Public Internal Financial Control" samt för presentation av förslaget.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Ekonomistyrningsverket        </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2002-12-28" />
+    <activity-date type="2" iso-date="2001-10-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15111" vocabulary="1" percentage="100">
+      <narrative>Public finance management (PFM)</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="2">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <planned-disbursement>
+      <period-start iso-date="2002-01-01" />
+      <period-end iso-date="2002-12-28" />
+      <value value-date="2002-01-01">19759.6955045777</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2002-12-28" />
+      <value value-date="2002-12-28">19759.6955045777</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600302201-SVK-15140</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Twinning Slovakia, RFV</narrative>
+      <narrative xml:lang="sv">Twinning RFV Slovakien</narrative>
+    </title>
+    <description type="1">
+      <narrative>The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.</narrative>
+      <narrative xml:lang="sv">Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>RFV Riksförsäkringsverket     </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2004-03-28" />
+    <activity-date type="2" iso-date="2003-09-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15110" vocabulary="1" percentage="100">
+      <narrative>Public sector policy and administrative management</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="2">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="2">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="2">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">5240.947454397</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">5240.947454397</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2003-01-01" />
+      <value value-date="2003-01-01">4765.9721964323</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2004-12-28" />
+      <value value-date="2004-12-28">5240.947454397</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600316501-SVK-15140</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>TL Migration Board Slovak</narrative>
+      <narrative xml:lang="sv">TL Migration Slovakien</narrative>
+    </title>
+    <description type="1">
+      <narrative>The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.</narrative>
+      <narrative xml:lang="sv">Sidastöd utgår i detta beslut för arbete med att utveckla och skriva s.k. Twinning Covenant (avtal mellan svensk part och mottagande part i kandidatlandet för genomförande av twinning-projekt), vilket skall ses som komplement till den EU-finansiering som utgår för utarbetande av covenant i enlighet med den senast reviderade manualen för twinning 2001.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Migrationsverket              </narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="11000" type="10" role="4">
+      <narrative>Donor Government</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2004-10-28" />
+    <activity-date type="2" iso-date="2004-06-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15110" vocabulary="1" percentage="100">
+      <narrative>Public sector policy and administrative management</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="1">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="1">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">6479.716852709</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="2004-01-01" />
+      <period-end iso-date="2004-12-28" />
+      <value value-date="2004-01-01">6479.716852709</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="2004-01-01" />
+      <value value-date="2004-01-01">6479.716852709</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="2004-12-28" />
+      <value value-date="2004-12-28">6479.716852709</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7600495801-SVK-14050</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Waste paper recycling 2</narrative>
+      <narrative xml:lang="sv">Returpappershantering 2</narrative>
+    </title>
+    <description type="1">
+      <narrative>The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.</narrative>
+      <narrative xml:lang="sv">Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="1998-07-28" />
+    <activity-date type="2" iso-date="1994-12-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="14050" vocabulary="1" percentage="100">
+      <narrative>Waste management/disposal</narrative>
+    </sector>
+    <sector code="140" vocabulary="2" percentage="100">
+      <narrative>Water Supply &amp; Sanitation</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="2">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="0">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">48253.9542726278</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">48253.9542726278</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="1994-01-01" />
+      <value value-date="1994-01-01">49701.1288671151</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1998-12-28" />
+      <value value-date="1998-12-28">48254.0801046923</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+  <iati-activity last-updated-datetime="2021-03-02T08:44:23" xml:lang="en" default-currency="USD" humanitarian="0" hierarchy="1">
+    <iati-identifier>SE-0-SE-6-7700003301-SVK-15161</iati-identifier>
+    <reporting-org ref="SE-0" type="10" secondary-reporter="0">
+      <narrative>Sweden</narrative>
+    </reporting-org>
+    <title>
+      <narrative>Slovakia election</narrative>
+      <narrative xml:lang="sv">Valinsats Slovak sept '98</narrative>
+    </title>
+    <description type="1">
+      <narrative>Delegation concerning contrubution during the elections in Slovakia, 1998.</narrative>
+      <narrative xml:lang="sv">Delegering avseende valinsatser i Slovakien 1998.</narrative>
+    </description>
+    <participating-org ref="SE-0" type="10" role="1">
+      <narrative>Sweden</narrative>
+    </participating-org>
+    <participating-org role="2">
+      <narrative>Odefinierat</narrative>
+    </participating-org>
+    <participating-org ref="SE-6" type="10" role="3">
+      <narrative>Swedish International Development Cooperation Agency</narrative>
+    </participating-org>
+    <participating-org ref="47000" type="40" role="4">
+      <narrative>Other multilateral institution</narrative>
+    </participating-org>
+    <activity-status code="4" />
+    <activity-date type="4" iso-date="2000-01-28" />
+    <activity-date type="2" iso-date="1998-05-01" />
+    <contact-info>
+      <organisation>
+        <narrative>Swedish International Development Cooperation Agency</narrative>
+      </organisation>
+      <telephone>+46(0)8-698 50 00</telephone>
+      <email>sida@sida.se</email>
+      <website>www.sida.se</website>
+      <mailing-address>
+        <narrative>Valhallavägen 199, 105 25 Stockholm, Sweden</narrative>
+      </mailing-address>
+    </contact-info>
+    <recipient-country code="SK" percentage="100">
+      <narrative>Slovakia</narrative>
+    </recipient-country>
+    <sector code="15151" vocabulary="1" percentage="100">
+      <narrative>Elections</narrative>
+    </sector>
+    <sector code="151" vocabulary="2" percentage="100">
+      <narrative>Government &amp; Civil Society-general</narrative>
+    </sector>
+    <policy-marker code="1" vocabulary="1" significance="0">
+      <narrative>Gender Equality</narrative>
+    </policy-marker>
+    <policy-marker code="2" vocabulary="1" significance="0">
+      <narrative>Aid to Environment</narrative>
+    </policy-marker>
+    <policy-marker code="3" vocabulary="1" significance="2">
+      <narrative>Participatory Development/Good Governance</narrative>
+    </policy-marker>
+    <policy-marker code="4" vocabulary="1" significance="0">
+      <narrative>Trade Development</narrative>
+    </policy-marker>
+    <policy-marker code="5" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+    </policy-marker>
+    <policy-marker code="6" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+    </policy-marker>
+    <policy-marker code="7" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+    </policy-marker>
+    <policy-marker code="8" vocabulary="1" significance="0">
+      <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+    </policy-marker>
+    <policy-marker code="9" vocabulary="1" significance="0">
+      <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+    </policy-marker>
+    <collaboration-type code="1" />
+    <default-flow-type code="10" />
+    <default-finance-type code="110" />
+    <default-aid-type code="C01" />
+    <budget>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">34341.8353864932</value>
+    </budget>
+    <budget>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">20606.6107500333</value>
+    </budget>
+    <budget>
+      <period-start iso-date="2000-01-01" />
+      <period-end iso-date="2000-12-28" />
+      <value value-date="2000-01-01">6967.2292207934</value>
+    </budget>
+    <planned-disbursement>
+      <period-start iso-date="1998-01-01" />
+      <period-end iso-date="1998-12-28" />
+      <value value-date="1998-01-01">34341.8353864932</value>
+    </planned-disbursement>
+    <planned-disbursement>
+      <period-start iso-date="1999-01-01" />
+      <period-end iso-date="1999-12-28" />
+      <value value-date="1999-01-01">20606.6107500333</value>
+    </planned-disbursement>
+    <transaction>
+      <transaction-type code="2" />
+      <transaction-date iso-date="1998-01-01" />
+      <value value-date="1998-01-01">63796.8567150281</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1998-12-28" />
+      <value value-date="1998-12-28">34341.8391614551</value>
+    </transaction>
+    <transaction>
+      <transaction-type code="3" />
+      <transaction-date iso-date="1999-12-28" />
+      <value value-date="1999-12-28">20606.5599167302</value>
+    </transaction>
+    <contribution contributionid="" xmlns="http://sida.se/ns/contribution#" />
+  </iati-activity>
+</iati-activities>

@@ -21,6 +21,7 @@ namespace ActivityReader
             var containerSAP = Environment.GetEnvironmentVariable("CONTAINER_SAP");
             var fileQSAS = Environment.GetEnvironmentVariable("IATI_FILE_SAS");
             string fileName = ExtractFileName(fileQSAS);
+            Console.WriteLine($"Extracted filename was {fileName}");
             if (fileName == null || fileName.Length == 0)
             {
                 fileName = "DZ.xml";
@@ -53,6 +54,7 @@ namespace ActivityReader
 
         private static string ExtractFileName(string fileQSAS)
         {
+            Console.WriteLine($"Extracting FileName");
             string blobName = null;
             try
             {

@@ -26,9 +26,10 @@ namespace ActivityReader
                 fileName = "DZ.xml";
             }
 
-            //Console.WriteLine($"SAP is now {containerSAP}");
-            //Console.WriteLine($"QSAP is now {Environment.GetEnvironmentVariable("QEUEU_SAP")}");
-            //Console.WriteLine($"FileName is {fileName}");
+            Console.WriteLine($"SAP is now {containerSAP}");
+            Console.WriteLine($"QSAP is now {Environment.GetEnvironmentVariable("QEUEU_SAP")}");
+            Console.WriteLine($"fileQSAS is now { Environment.GetEnvironmentVariable("IATI_FILE_SAS")}");
+            Console.WriteLine($"FileName is {fileName}");
 
             try
             {

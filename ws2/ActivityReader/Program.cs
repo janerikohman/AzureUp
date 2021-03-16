@@ -29,7 +29,7 @@ namespace ActivityReader
 
             Console.WriteLine($"SAP is now {containerSAP}");
             Console.WriteLine($"QSAP is now {Environment.GetEnvironmentVariable("QEUEU_SAP")}");
-            Console.WriteLine($"fileQSAS is now { Environment.GetEnvironmentVariable("IATI_FILE_SAS")}");
+            Console.WriteLine($"fileQSAS is now { fileQSAS }");
             Console.WriteLine($"FileName is {fileName}");
 
             try
@@ -54,14 +54,18 @@ namespace ActivityReader
 
         private static string ExtractFileName(string fileQSAS)
         {
-            Console.WriteLine($"Extracting FileName");
+            Console.WriteLine($"Extracting FileName with SAS={fileQSAS}");
             string blobName = null;
             try
             {
                 //var demosas = "https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D";
                 //QueueClient client = new QueueClient(new System.Uri(demosas), new QueueClientOptions() { MessageEncoding = QueueMessageEncoding.Base64 });
+                //fileQSAS = "https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D";
+                Console.WriteLine($"Creating client with SAS={fileQSAS}");
                 QueueClient client = new QueueClient(new System.Uri(fileQSAS), new QueueClientOptions() { MessageEncoding = QueueMessageEncoding.Base64 });
+                Console.WriteLine($"Receiving message");
                 QueueMessage msg = client.ReceiveMessage();
+                Console.WriteLine($"Message received");
                 var blobUri = msg.Body.ToString();
                 Console.WriteLine($"ExtractFileName blobUri {blobUri}");
                 var blobUriSegments = new Uri(blobUri).Segments;

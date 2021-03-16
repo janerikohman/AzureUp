@@ -61,13 +61,16 @@ namespace ActivityReader
                 QueueClient client = new QueueClient(new System.Uri(fileQSAS), new QueueClientOptions() { MessageEncoding = QueueMessageEncoding.Base64 });
                 QueueMessage msg = client.ReceiveMessage();
                 var blobUri = msg.Body.ToString();
+                Console.WriteLine($"ExtractFileName blobUri {blobUri}");
                 var blobUriSegments = new Uri(blobUri).Segments;
                 blobName = blobUriSegments[^1];
 
             }
-            catch (Exception)
+            catch (Exception e)
             {
+                Console.WriteLine($"Extract filename failed with message {e.ToString()}");
             }
+            Console.WriteLine($"ExtractFileName returns {blobName}");
             return blobName;
         }
 

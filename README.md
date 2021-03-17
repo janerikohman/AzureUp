@@ -41,6 +41,9 @@ After this workshop you will have had an intro to
 * Monitoring Logic App runs in Azure Portal
 * Azure Storage Explorer
 
+![image](https://user-images.githubusercontent.com/2428582/111485409-e3841500-8736-11eb-9272-865ba00528ee.png)
+
+
 ## Workshop 3
 9. Write an Azure Function that are triggered from the queue and stores the data in Table Storage
 10. Event Hubs / Topics 

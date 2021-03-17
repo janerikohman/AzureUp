@@ -41,7 +41,8 @@ After this workshop you will have had an intro to
 * Monitoring Logic App runs in Azure Portal
 * Azure Storage Explorer
 
-![image](https://user-images.githubusercontent.com/2428582/111485409-e3841500-8736-11eb-9272-865ba00528ee.png)
+![image](https://user-images.githubusercontent.com/2428582/111488391-79b93a80-8739-11eb-9e65-bff92756faf9.png)
+
 
 
 ## Workshop 3

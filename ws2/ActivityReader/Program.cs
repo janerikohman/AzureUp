@@ -14,7 +14,6 @@ namespace ActivityReader
         {
             Console.WriteLine($"Starting import {DateTime.Now}!");
 
-
             //var containerSAP = args[0];
             //var fileName = args[1];
             //var containerSAP = "https://jeo4cyberdemostorage.blob.core.windows.net/private2?sv=2019-12-12&si=private2-176F33B69E2&sr=c&sig=6VmOqynJf1gyH%2BO%2FTcDx3AXOi4sxESy5WpXlD%2Bccs5c%3D";
@@ -54,25 +53,15 @@ namespace ActivityReader
 
         private static string ExtractFileName(string fileQSAS)
         {
-            Console.WriteLine($"Extracting FileName with SAS={fileQSAS}");
             string blobName = null;
             try
             {
-            //var demosas = "https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D";
-            //QueueClient client = new QueueClient(new System.Uri(demosas), new QueueClientOptions() { MessageEncoding = QueueMessageEncoding.Base64 });
-                            //https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D
-                            //https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D
-                //fileQSAS = "https://ccdemostrg1.queue.core.windows.net/file?sv=2019-02-02&st=2021-03-16T20%3A10%3A18Z&se=2021-03-17T20%3A10%3A18Z&sp=raup&sig=nrXD8gbl0OAMYyjpDvf9vWglEqoj3esMOQnL5evfqLo%3D";
-                Console.WriteLine($"Creating client with SAS='{fileQSAS}'");
                 QueueClient client = new QueueClient(new System.Uri(fileQSAS), new QueueClientOptions() { MessageEncoding = QueueMessageEncoding.Base64 });
-                Console.WriteLine($"Receiving message");
                 QueueMessage msg = client.ReceiveMessage();
-                Console.WriteLine($"Message received");
                 var blobUri = msg.Body.ToString();
-                Console.WriteLine($"ExtractFileName blobUri {blobUri}");
                 var blobUriSegments = new Uri(blobUri).Segments;
                 blobName = blobUriSegments[^1];
-
+                client.DeleteMessage(msg.MessageId, msg.PopReceipt);
             }
             catch (Exception e)
             {

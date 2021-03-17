@@ -12,7 +12,7 @@ namespace ActivityReader
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Starting import {DateTime.Now}!");
+            Console.WriteLine($"Starting import Demo {DateTime.Now}!");
 
             var containerSAP = Environment.GetEnvironmentVariable("CONTAINER_SAP");
             var fileQSAS = Environment.GetEnvironmentVariable("IATI_FILE_SAS");

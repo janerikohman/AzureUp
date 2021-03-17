@@ -14,9 +14,6 @@ namespace ActivityReader
         {
             Console.WriteLine($"Starting import {DateTime.Now}!");
 
-            //var containerSAP = args[0];
-            //var fileName = args[1];
-            //var containerSAP = "https://jeo4cyberdemostorage.blob.core.windows.net/private2?sv=2019-12-12&si=private2-176F33B69E2&sr=c&sig=6VmOqynJf1gyH%2BO%2FTcDx3AXOi4sxESy5WpXlD%2Bccs5c%3D";
             var containerSAP = Environment.GetEnvironmentVariable("CONTAINER_SAP");
             var fileQSAS = Environment.GetEnvironmentVariable("IATI_FILE_SAS");
             string fileName = ExtractFileName(fileQSAS);
@@ -26,10 +23,10 @@ namespace ActivityReader
                 fileName = "DZ.xml";
             }
 
-            Console.WriteLine($"SAP is now {containerSAP}");
-            Console.WriteLine($"QSAP is now {Environment.GetEnvironmentVariable("QEUEU_SAP")}");
-            Console.WriteLine($"fileQSAS is now { fileQSAS }");
-            Console.WriteLine($"FileName is {fileName}");
+            //Console.WriteLine($"SAP is now {containerSAP}");
+            //Console.WriteLine($"QSAP is now {Environment.GetEnvironmentVariable("QEUEU_SAP")}");
+            //Console.WriteLine($"fileQSAS is now { fileQSAS }");
+            //Console.WriteLine($"FileName is {fileName}");
 
             try
             {

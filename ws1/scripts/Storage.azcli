@@ -1,4 +1,5 @@
 # Run in Bash
+# Just testing local tool CodeStream
 
 az login
 az account list
